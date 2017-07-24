@@ -19,26 +19,26 @@ ___
 >![Atom](logos/atom.png)  
 <https://atom.io/>  
 >>**Pacotes:**  
->> <https://github.com/autocomplete-python/autocomplete-python>:  
-Ajuda a completa o nome dos mêtodos, funções e etc.
-
->> <https://github.com/platformio/platformio-atom-ide-terminal>  
+ <https://github.com/autocomplete-python/autocomplete-python>:  
+Ajuda a completa o nome dos mêtodos, funções e etc.  
+>>   <https://github.com/platformio/platformio-atom-ide-terminal>  
 Abre um terminal na mesma tela do código.  
-
+>>
 >> <https://github.com/chocoelho/project-switcher2>  
 Alternar os Projetos rápidamente.
 
-![Sublime Text 3](logos/sublimetext3.png)  
+![Sublime Text 3](logos/sb3.png)  
 <https://www.sublimetext.com/3>  
 >> **Pacotes:**  
 >><https://packagecontrol.io/installation>  
 Este é **Obrigatório** para pode instala todos os outros.  
-
+>>
 >><https://packagecontrol.io/packages/SideBarEnhancements>  
-Deixa a barra de menu lateral com mais opções.
+Deixa a barra de menu lateral com mais opções.  
+>>
 >><https://packagecontrol.io/packages/Anaconda>  
 Autocomplete python, pep8, build system, e varias outras opções que ajuda muito na hora de escrever seus códigos python.  
-
+>>
 >><https://github.com/wuub/SublimeREPL>  
 Ótimo Terminal para o Build System.
 Lembrado que tem que configura ele corretamente.
