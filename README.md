@@ -51,3 +51,8 @@ ___
 ><https://github.com/PenseAllen/PensePython2e>  
 
 Para mais material <https://wiki.python.org.br/AprendaMais>
+
+___
+### **Blogs**
+**Artigos sobre Python/Django e API RESTful - Thallison Rhanniel**
+><https://medium.com/@thallisonrlima>  
